@@ -6,3 +6,9 @@ Search engines use a specific type of scraper, called web crawler or search bot,
 #---diff between scrapper and crawler---
   1. Scraping is the process of processing web documents and extracting information out of it. 
   2. Crawling is the process of iteratively finding and fetching web links starting from a list of URL'S
+  
+  
+  
+  
+  
+                                                                                                ~~~DEBABRATA TAH
